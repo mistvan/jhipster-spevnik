@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "spevnik",
+    "packageName": "sk.mistvan.spevnik",
+    "packageFolder": "sk/mistvan/spevnik",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "50b453b91682f2a49e9b59ffe2e250dba2a5d183",
+    "testFrameworks": [
+      "protractor"
+    ]
+  }
+}
