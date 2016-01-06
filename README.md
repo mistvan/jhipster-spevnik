@@ -21,6 +21,7 @@ auto-refreshes when files change on your hard drive.
 
     mvn
     grunt
+    
 
 Bower is used to manage CSS and JavaScript dependencies used in this application. You can upgrade dependencies by
 specifying a newer version in `bower.json`. You can also run `bower update` and `bower install` to manage dependencies.
